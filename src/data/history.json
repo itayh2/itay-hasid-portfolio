@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Manual software tester",
+    "organisation": "MID",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Utilizing azure devops for bugs tracking",
+      "Conduct manual performance and UX/UI tests"
+    ],
+    "imageSrc": "history/mid.png"
+  },
+  {
+    "role": "Sales And Service Specialist",
+    "organisation": "Idigital Store",
+    "startDate": "Sep, 2020",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/idigital.png"
+  }
+]
