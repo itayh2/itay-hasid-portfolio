@@ -8,7 +8,10 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Itay</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 1 years of experience...
+          Computer Science graduate with strong self-learning abilities,
+          attention to detail, and excellent teamwork skills. Thrives under
+          pressure and eager to contribute to innovative software development
+          projects in a dynamic team environment
         </p>
         <a href="mailto:itay080297@gmail.com" className={styles.contactBtn}>
           Contact Me

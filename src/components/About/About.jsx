@@ -14,24 +14,31 @@ const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
-              <p>I'm a frontend developer with experience in...</p>
+              <p>
+                A recent Computer Science and Information Science graduate from
+                the Ruppin Academic Center, I offer a strong blend of academic
+                knowledge and practical skills in programming, algorithms, data
+                analysis, and database management.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server Icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>I have experience developing fast and optimised and APIs</p>
+              <p>
+                Passionate about technology and committed to continuous growth,
+                I thrive in collaborative environments where I can contribute
+                innovative solutions while expanding my expertise.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/designIcon.png")} alt="Design Icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Developer</h3>
-              <p>I'm a frontend developer with experience in...</p>
+              <p>
+                Seeking a challenging role in a forward-thinking tech company
+                that values creativity and problem-solving abilities, where I
+                can leverage my talents to develop cutting-edge solutions.
+              </p>
             </div>
           </li>
         </ul>

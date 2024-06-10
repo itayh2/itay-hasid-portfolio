@@ -34,6 +34,7 @@
 }
 
 .description {
+  width: 90%;
   font-size: 30px;
   font-family: var(--font-robot);
   margin-bottom: 52px;
@@ -116,10 +117,10 @@
     margin-top: 10px;
     font-size: 58px;
   }
-  .description{
+  .description {
     font-size: 20px;
   }
-  .contactBtn{
+  .contactBtn {
     font-size: 25px;
     font-weight: 600;
     padding: 10px 20px;

@@ -1,26 +1,26 @@
 [
-    {
-      "title": "Tic Tac Toe Game",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal introduction page using React for my portfolio",
+    "skills": ["React"],
+    "demo": "https://itay-hasid.netlify.app/",
+    "source": "https://github.com/itayh2/itay-hasid-portfolio"
+  },
+  {
+    "title": "Tic Tac Toe Game",
+    "imageSrc": "projects/tic-tac-toe.png",
+    "description": "A game using React, demonstrating interactive UI and state management",
+    "skills": ["React"],
+    "demo": "https://main--itay-tictactoe.netlify.app/",
+    "source": "https://github.com/itayh2/Tic-Tac-Toe"
+  },
+  {
+    "title": "Taki Game",
+    "imageSrc": "projects/taki.png",
+    "description": "A game f player against the computer using Html & Css & Js",
+    "skills": ["Html", "Css", "Js"],
+    "demo": "https://main--itay-taki.netlify.app/",
+    "source": "https://github.com/itayh2/TakiGame"
+  }
+]
