@@ -14,13 +14,5 @@
     "skills": ["React"],
     "demo": "https://main--itay-tictactoe.netlify.app/",
     "source": "https://github.com/itayh2/Tic-Tac-Toe"
-  },
-  {
-    "title": "Taki Game",
-    "imageSrc": "projects/taki.png",
-    "description": "A game f player against the computer using Html & Css & Js",
-    "skills": ["Html", "Css", "Js"],
-    "demo": "https://main--itay-taki.netlify.app/",
-    "source": "https://github.com/itayh2/TakiGame"
   }
 ]
